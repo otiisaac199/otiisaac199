@@ -17,7 +17,7 @@ A Creative Front-End Developer with almost 2 years of experience building websit
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=otiisaac199&count_private=true&show_icons=true&theme=dracula" alt="Oti Chinazaekpere Isaac's GitHub Stats" />
 </a>
 
-
+#
 <a href="https://github.com/otiisaac199">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otiisaac199&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
@@ -35,11 +35,14 @@ A Creative Front-End Developer with almost 2 years of experience building websit
 
 
 #
-<a href="https://github.com/chineduogada">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=stanleyogada&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
+<a href="https://github.com/otiisaac199">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=otiisaac199&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a> 
 
-<!---
-otiisaac199/otiisaac199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
