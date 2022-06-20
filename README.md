@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otiisaac199
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning.
 - 📫 How to reach me ...
 
 <!---
