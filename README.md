@@ -9,8 +9,8 @@ A Creative Front-End Developer with almost 2 years of experience building websit
 </a>, +2349018690304, or +2349017126130.
 
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-CSS-informational?style=flat&logo=style&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SCSS-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-CSS-informational?style=flat&logo=stylesheet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SCSS-informational?style=flat&logo=preprocessor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
