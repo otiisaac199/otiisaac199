@@ -24,20 +24,15 @@ A Creative Front-End Developer with almost 2 years of experience building websit
 
 
 #
-<!-- <a href="https://github.com/chineduogada/react-rapid-carousel">
+<!-- <a href="https://github.com/otiisaac199/Cutty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dracula" />
 </a>
 
 
-<a href="https://github.com/chineduogada/newspaper">
+<a href="https://github.com/otiisaac199/Shopping-Cart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=newspaper&theme=dark" />
 </a>   
-
-
---
-<a href="https://github.com/chineduogada/sr-react-dev-fulfil-exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=sr-react-dev-fulfil-exercise&theme=dark" />
-</a>  -->
+ -->
 
 
 <a href="https://github.com/chineduogada">
