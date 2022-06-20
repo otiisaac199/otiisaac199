@@ -16,6 +16,9 @@ A Creative Front-End Developer with almost 2 years of experience building websit
 <a href="https://github.com/otiisaac199">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=otiisaac199&count_private=true&show_icons=true&theme=dracula" alt="Oti Chinazaekpere Isaac's GitHub Stats" />
 </a>
+<a href="https://github.com/otiisaac199">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otiisaac199&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
+</a>
 
 <!---
 otiisaac199/otiisaac199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
