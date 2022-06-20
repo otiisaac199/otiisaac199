@@ -25,12 +25,12 @@ A Creative Front-End Developer with almost 2 years of experience building websit
 
 #
 <a href="https://github.com/otiisaac199/Cutty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otiisaac199&theme=dracula" />
 </a>
 
 
 <a href="https://github.com/otiisaac199/Shopping-Cart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=newspaper&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otiisaac199&theme=dark" />
 </a>   
 
 
