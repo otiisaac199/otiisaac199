@@ -1,5 +1,5 @@
 
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
+# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> thanks for stopping by
 
 ### I am ✨ Oti Chinazaekpere Isaac✨,
 
