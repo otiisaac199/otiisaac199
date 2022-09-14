@@ -4,7 +4,7 @@
 ### I am ✨ Oti Chinazaekpere Isaac✨,
 
 A Creative Front-End Developer with almost 2 years of experience building websites and web apps, collaborative environments. You can also find me on 
-<a href="linkedin.com/in/chinaza oti/" rel="nofollow noreferrer">
+<a href="https://linkedin.com/in/chinaza oti/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304, or +2349017126130.
 
