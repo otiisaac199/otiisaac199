@@ -15,7 +15,7 @@ A Creative and Innovative Front-End Developer with almost 2 years of experience 
 ![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-vercel-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats Overview
