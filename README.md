@@ -6,7 +6,7 @@
 Passionate Front-End Developer with almost 2 years of experience building websites, web apps, creating and maintainng better codes . Eager to tackle more complex problems and find ways to maximize user efficiency. You can also find me on 
 <a href="https://www.linkedin.com/in/chinaza-oti-a0252823a" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +2349018690304, or +2349017126130.
+</a>, +2349018690304.
 
 ![](https://img.shields.io/badge/code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
