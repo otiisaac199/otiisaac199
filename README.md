@@ -3,7 +3,7 @@
 
 ### I am ✨ Oti Chinazaekpere Isaac✨,
 
-Passionate Front-End Developer with almost 2 years of experience building websites, web apps, creating and maintainng better codes . Eager to tackle more complex problems and find ways to maximize user efficiency. You can also find me on 
+Passionate Frontend Developer with almost 2 years of experience building websites, web apps, creating and maintainng better codes . Eager to tackle more complex problems and find ways to maximize user efficiency. You can also find me on 
 <a href="https://www.linkedin.com/in/chinaza-oti-a0252823a" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304.
