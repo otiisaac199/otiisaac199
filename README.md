@@ -9,17 +9,17 @@ Passionate Frontend Developer with over 3 years of experience building websites,
 </a>, +2349018690304.
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![SASS](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![Next](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
-![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![Nodemon](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&logoColor=white&color=2bbc8a)
-![socket.io](https://img.shields.io/badge/Code-SocketIO-informational?style=flat&logo=socket.io&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![SASS](https://img.shields.io/badge/SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Next](https://img.shields.io/badge/NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![NodeJS](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![Nodemon](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=nodemon&logoColor=white&color=2bbc8a)
+![socket.io](https://img.shields.io/badge/SocketIO-informational?style=flat&logo=socket.io&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats Overview
 <a href="https://github.com/otiisaac199">
