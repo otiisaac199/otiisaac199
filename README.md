@@ -12,11 +12,12 @@ Passionate Frontend Developer with over 3 years of experience building websites,
 ![](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+![SASS](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Next](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats Overview
 <a href="https://github.com/otiisaac199">
