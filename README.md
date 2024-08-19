@@ -8,18 +8,18 @@ Passionate Frontend Developer with over 3 years of experience building websites,
   <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304.
 
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=%2320232a)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=%2320232a)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=%2320232a)
-![](https://img.shields.io/badge/Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=%2320232a)
-![SASS](https://img.shields.io/badge/SASS/SCSS-informational?style=flat&logo=sass&logoColor=%2320232a)
-![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=%2320232a)
-![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=%2320232a)
-![Next](https://img.shields.io/badge/NextJs-informational?style=flat&logo=vercel&logoColor=%2320232a)
-![NodeJS](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=%2320232a)
-![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=%2320232a)
-![Nodemon](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=nodemon&logoColor=%2320232a)
-![socket.io](https://img.shields.io/badge/SocketIO-informational?style=flat&logo=socket.io&logoColor=%2320232a)
+![](https://img.shields.io/badge/HTML5-%2320232a?style=flat&logo=html5&logoColor=%2320232a)
+![](https://img.shields.io/badge/CSS3-%2320232a?style=flat&logo=css3&logoColor=%2320232a)
+![](https://img.shields.io/badge/Bootstrap-%2320232a?style=flat&logo=bootstrap&logoColor=%2320232a)
+![](https://img.shields.io/badge/Tailwindcss-%2320232a?style=flat&logo=tailwindcss&logoColor=%2320232a)
+![SASS](https://img.shields.io/badge/SASS/SCSS-%2320232a?style=flat&logo=sass&logoColor=%2320232a)
+![Javascript](https://img.shields.io/badge/JavaScript-%2320232a?style=flat&logo=javascript&logoColor=%2320232a)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2320232a)
+![Next](https://img.shields.io/badge/NextJs-%2320232a?style=flat&logo=vercel&logoColor=%2320232a)
+![NodeJS](https://img.shields.io/badge/NodeJS-%2320232a?style=flat&logo=node.js&logoColor=%2320232a)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a?style=flat&logo=mongodb&logoColor=%2320232a)
+![Nodemon](https://img.shields.io/badge/Nodemon-%2320232a?style=flat&logo=nodemon&logoColor=%2320232a)
+![socket.io](https://img.shields.io/badge/SocketIO-%2320232a?style=flat&logo=socket.io&logoColor=%2320232a)
 
 ## &#x1f4c8; GitHub Stats Overview
 <a href="https://github.com/otiisaac199">
