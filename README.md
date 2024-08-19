@@ -20,6 +20,7 @@ Passionate Frontend Developer with over 3 years of experience building websites,
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a?style=flat&logo=mongodb&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-%2320232a?style=flat&logo=nodemon&logoColor=white)
 ![socket.io](https://img.shields.io/badge/SocketIO-%2320232a?style=flat&logo=socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/ExpressJS-%2320232a?style=flat&logo=Express&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats Overview
 <a href="https://github.com/otiisaac199">
