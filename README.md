@@ -16,8 +16,10 @@ Passionate Frontend Developer with over 3 years of experience building websites,
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![Next](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![Nodemon](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&logoColor=white&color=2bbc8a)
+![socket.io](https://img.shields.io/badge/Code-SocketIO-informational?style=flat&logo=socket.io&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats Overview
 <a href="https://github.com/otiisaac199">
