@@ -3,7 +3,7 @@
 
 ### I am ✨ Oti Isaac✨,
 
-I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js. My expertise includes designing efficient databases with MongoDB, creating scalable APIs with Express.js and Node.js, and crafting dynamic user interfaces with React. I have hands-on experience with real-time features using Socket.io, implementing authentication and authorization, and deploying applications to production environments. My passion for coding drives me to continuously explore new technologies and best practices, ensuring that I deliver robust, high-performance solutions tailored to client needs. You can also find me on 
+I build robust web apps with MongoDB, Express.js, React, and Node.js. I excel in real-time features, authentication, and deployment, and I’m passionate about using cutting-edge technologies to deliver high-performance solutions. You can also find me on 
 <a href="https://www.linkedin.com/in/webby" rel="nofollow noreferrer">
   <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304.
