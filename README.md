@@ -1,9 +1,9 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> thanks for stopping by
 
-### I am ✨ Oti Chinazaekpere Isaac✨,
+### I am ✨ Oti Isaac✨,
 
-Passionate Frontend Developer with over 3 years of experience building websites, web apps, creating and maintainng better codes . Eager to tackle more complex problems and find ways to maximize user efficiency. You can also find me on 
+I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js. My expertise includes designing efficient databases with MongoDB, creating scalable APIs with Express.js and Node.js, and crafting dynamic user interfaces with React. I have hands-on experience with real-time features using Socket.io, implementing authentication and authorization, and deploying applications to production environments. My passion for coding drives me to continuously explore new technologies and best practices, ensuring that I deliver robust, high-performance solutions tailored to client needs. You can also find me on 
 <a href="https://www.linkedin.com/in/webby" rel="nofollow noreferrer">
   <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304.
