@@ -3,7 +3,7 @@
 
 ### I am ✨ Oti Isaac✨,
 
-I build robust web apps with MongoDB, Express.js, React, and Node.js. I excel in real-time features, authentication, and deployment, and I’m passionate about using cutting-edge technologies to deliver high-performance solutions. You can also find me on 
+I build robust web apps with MongoDB, Express.js, React, Typescript and Node.js. I excel in real-time features, authentication, and deployment, and I’m passionate about using cutting-edge technologies to deliver high-performance solutions. You can also find me on 
 <a href="https://www.linkedin.com/in/webby" rel="nofollow noreferrer">
   <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304.
