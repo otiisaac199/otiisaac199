@@ -9,34 +9,40 @@ You can also find me on <a href="https://www.linkedin.com/in/webby" rel="nofollo
 
 ![](https://img.shields.io/badge/HTML5-%2320232a?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-%2320232a?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-%2320232a?style=flat&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Tailwindcss-%2320232a?style=flat&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS/SCSS-%2320232a?style=flat&logo=sass&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-%2320232a?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/NextJs-%2320232a?style=flat&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%2320232a?style=flat&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-%2320232a?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a?style=flat&logo=mongodb&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%2320232a?style=flat&logo=nodemon&logoColor=white)
-![Express](https://img.shields.io/badge/ExpressJS-%2320232a?style=flat&logo=Express&logoColor=white)
-![socket.io](https://img.shields.io/badge/SocketIO-%2320232a?style=flat&logo=socket.io&logoColor=white)
-
-## &#x1f4c8; GitHub Stats Overview
-<a href="https://github.com/otiisaac199">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otiisaac199&count_private=true&show_icons=true&theme=dracula" alt="Oti Chinazaekpere Isaac's GitHub Stats" />
-</a>
-
-#
-<a href="https://github.com/otiisaac199">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otiisaac199&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
-</a>
+![](https://img.shields.io/badge/JavaScript-%2320232a?style=flat&logo=javascript&logoColor=yellow)
+![](https://img.shields.io/badge/TypeScript-%2320232a?style=flat&logo=typescript&logoColor=blue)
+![](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=cyan)
+![](https://img.shields.io/badge/Next.js-%2320232a?style=flat&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-%2320232a?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![](https://img.shields.io/badge/Bootstrap-%2320232a?style=flat&logo=bootstrap&logoColor=7952B3)
+![](https://img.shields.io/badge/Node.js-%2320232a?style=flat&logo=nodedotjs&logoColor=green)
+![](https://img.shields.io/badge/Express.js-%2320232a?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Laravel-%2320232a?style=flat&logo=laravel&logoColor=FF2D20)
+![](https://img.shields.io/badge/PHP-%2320232a?style=flat&logo=php&logoColor=777BB4)
+![](https://img.shields.io/badge/MongoDB-%2320232a?style=flat&logo=mongodb&logoColor=47A248)
+![](https://img.shields.io/badge/MySQL-%2320232a?style=flat&logo=mysql&logoColor=4479A1)
+![](https://img.shields.io/badge/Git-%2320232a?style=flat&logo=git&logoColor=F05032)
+![](https://img.shields.io/badge/GitHub-%2320232a?style=flat&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Postman-%2320232a?style=flat&logo=postman&logoColor=FF6C37)
 
 
-#
-<a href="https://github.com/otiisaac199">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=otiisaac199&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a> 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=otiisaac199&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otiisaac199&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=otiisaac199&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
 
 
 <!-- Resources -->
