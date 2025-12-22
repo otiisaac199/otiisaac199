@@ -3,9 +3,8 @@
 
 ### I am ✨ Oti Isaac✨,
 
-I build robust web apps with MongoDB, Express.js, React, Typescript and Node.js. I excel in real-time features, authentication, and deployment, and I’m passionate about using cutting-edge technologies to deliver high-performance solutions. You can also find me on 
-<a href="https://www.linkedin.com/in/webby" rel="nofollow noreferrer">
-  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+👨‍💻 Full Stack Developer building scalable, efficient web applications with PHP, Laravel, MySQL, JavaScript (ES6+), and the MERN stack. | 🚀 Proficient in TypeScript, React, Next.js, and modern frontend tooling. |🧠 Strong problem-solving mindset with a solid foundation in computer science and mathematics. | ✨ Passionate about clean code, maintainable systems, and turning real-world problems into practical software. 
+You can also find me on <a href="https://www.linkedin.com/in/webby" rel="nofollow noreferrer"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2349018690304.
 
 ![](https://img.shields.io/badge/HTML5-%2320232a?style=flat&logo=html5&logoColor=white)
