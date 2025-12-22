@@ -3,7 +3,7 @@
 
 ### I am ✨ Oti Isaac✨,
 
-👨‍💻 Full Stack Developer (Laravel & MERN), Building scalable apps with modern UI & clean code. 🛠️ IT Support | Strong problem-solving mindset.
+👨‍💻 Full Stack Developer (Laravel & MERN), Building scalable apps with modern UI & clean code. 🛠️ IT Support | Strong problem-solving mindset. <br />
 React • TypeScript • Next.js • PHP • MySQL.
 
 You can also find me on <a href="https://www.linkedin.com/in/webby" rel="nofollow noreferrer"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
