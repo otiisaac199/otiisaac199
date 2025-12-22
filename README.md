@@ -10,7 +10,7 @@ You can also find me on <a href="https://www.linkedin.com/in/webby" rel="nofollo
 </a>, +2349018690304.
 
 ![](https://img.shields.io/badge/HTML5-%2320232a?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3-%2320232a?style=flat&logo=css&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/css3-%2320232a?style=flat&logo=css&logoColor=1572B6)
 ![](https://img.shields.io/badge/JavaScript-%2320232a?style=flat&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/TypeScript-%2320232a?style=flat&logo=typescript&logoColor=blue)
 ![](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=cyan)
